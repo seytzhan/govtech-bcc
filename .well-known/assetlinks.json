@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "kz.bcc.starbanking.stage",
+    "sha256_cert_fingerprints":
+    ["0B:61:8E:69:36:F8:B5:C8:AF:A6:EE:55:35:6E:74:89:9E:20:9E:79:D8:35:47:D7:51:35:C1:16:D9:29:80:27"]
+  }
+}]
